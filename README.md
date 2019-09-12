@@ -1,2 +1,3 @@
 # Home-Cage
-Code for home cage
+This repository contains code for the Donaldson home cage project.
+
