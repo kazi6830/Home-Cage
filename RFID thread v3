@@ -1,3 +1,5 @@
+# This is my first attempt at threading to get TWO RFIDs reading in "simultaneously" without lag
+
 import serial
 import threading
 import time
